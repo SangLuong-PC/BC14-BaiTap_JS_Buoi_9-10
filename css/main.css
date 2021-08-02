@@ -1,0 +1,28 @@
+.sp-thongbao {
+    color: red;
+    margin-left: 2px; 
+    display: none;
+  }
+  
+#SapXepGiam {
+    display: none;
+  }
+  
+  #content {
+    width: 100%;
+    background: #74ebd5; 
+    background: -webkit-linear-gradient(
+      to right,
+      #acb6e5,
+      #74ebd5
+    
+    background: linear-gradient(
+      to right,
+      #acb6e5,
+      #74ebd5
+  }
+  
+  .myCardHeader,
+  .myCardFooter {
+    background-color: transparent;
+  }
